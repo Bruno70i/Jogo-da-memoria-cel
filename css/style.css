@@ -10,7 +10,8 @@ body{
 .bg{    
     background-image: url("../img/img-layout/tintabackground.png");
     background-repeat: no-repeat;
-    background-size: 1350px 1750px;
+    min-width: 20em;
+    /* background-size: 1350px 1750px; */
 }
 
 h1{
