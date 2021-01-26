@@ -32,14 +32,14 @@ p{
 
 img#logo{
     position: relative;
-    left: 625px;
+    left: 600px;
     top: -207px;
 }
 
 #legendaAB{
     position: absolute;
     left: 2px;
-    top: 425px;
+    top: 400px;
     z-index: 1;
 }
 
