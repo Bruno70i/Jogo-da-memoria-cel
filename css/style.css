@@ -10,7 +10,7 @@ body{
 .bg{    
     background-image: url("../img/img-layout/tintabackground.png");
     background-repeat: no-repeat;
-    background-size: 390%;
+    background-size: unset;
 }
 
 h1{
