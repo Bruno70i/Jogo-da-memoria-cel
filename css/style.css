@@ -10,8 +10,7 @@ body{
 .bg{    
     background-image: url("../img/img-layout/tintabackground.png");
     background-repeat: no-repeat;
-    background-size: 400%;
-    background-clip: padding-box;
+    background-size: 390%;
 }
 
 h1{
